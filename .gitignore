@@ -170,3 +170,7 @@ test*/
 test*.py
 data/*
 .vscode/
+
+
+# PDDL Project Specific
+virtualhome/simulation/unity_simulator/simulation_exec/
